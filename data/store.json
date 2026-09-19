@@ -1,0 +1,17 @@
+{
+  "channels": [
+    { "id": "ch-1", "name": "Growth Lab", "handle": "@growthlab", "category": "Business", "status": "connected" },
+    { "id": "ch-2", "name": "Creator Studio", "handle": "@creatorstudio", "category": "Education", "status": "pending" }
+  ],
+  "queue": [
+    { "id": "q-1", "title": "How to build a YouTube automation workflow", "channelId": "ch-1", "status": "scheduled", "scheduledAt": "2026-09-26T18:00:00.000Z", "scriptSummary": "A step-by-step guide to automate publishing and analytics tasks." },
+    { "id": "q-2", "title": "AI tools for creators that save hours weekly", "channelId": "ch-1", "status": "queued", "scheduledAt": "2026-09-28T14:00:00.000Z", "scriptSummary": "Best practices for combining AI systems with video workflows." }
+  ],
+  "analytics": {
+    "views": 182340,
+    "watchTime": 45600,
+    "subscribers": 2150,
+    "ctr": 6.8,
+    "rpm": 18.4
+  }
+}
